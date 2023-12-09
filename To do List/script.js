@@ -35,4 +35,6 @@ function displayItem(){
 
 }
 
+
+
 addBtn.addEventListener('click',add)
